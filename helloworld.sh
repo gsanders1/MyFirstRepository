@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Man"
+echo "fail n"
